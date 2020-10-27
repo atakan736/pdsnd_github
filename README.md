@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+27.10.2020 Bikeshare - README
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Building an interactive environment where a user select and filter data to analyze
 
 ### Files used
-Include the files used
+washington.csv, chicago.csv and new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://docs.python.org/3.7/library/index.html
