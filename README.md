@@ -15,3 +15,6 @@ https://docs.python.org/3.7/library/index.html
 
 ### Created by
 Atakan Celik
+
+### Used Programming Language
+Python
