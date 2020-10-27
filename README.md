@@ -12,3 +12,6 @@ washington.csv, chicago.csv and new_york_city.csv
 
 ### Credits
 https://docs.python.org/3.7/library/index.html
+
+### Created by
+Atakan Celik
